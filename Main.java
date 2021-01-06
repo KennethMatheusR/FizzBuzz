@@ -1,5 +1,11 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    for(int count = 1; count <= 100; count++){
+      
+        System.out.println(count);
+    }
+
+
+    System.out.println("FizzBuzz practice");
   }
 }
